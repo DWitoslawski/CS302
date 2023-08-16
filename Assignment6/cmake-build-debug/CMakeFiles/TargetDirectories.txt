@@ -1,0 +1,3 @@
+/Users/danielwitoslawski/CLionProjects/CS302/Assignment6/cmake-build-debug/CMakeFiles/Assignment6.dir
+/Users/danielwitoslawski/CLionProjects/CS302/Assignment6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danielwitoslawski/CLionProjects/CS302/Assignment6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

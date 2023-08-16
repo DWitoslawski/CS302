@@ -1,0 +1,11 @@
+Joint 3 6
+Joint 1 3
+Car 2.0 2.0 4.0 1.0
+Joint 3 2
+Bike 0.5 1.0
+Bike 0.5 2.0
+Joint 4 1
+Bike 0.2 1.6
+Joint 3 5
+Goped 1.5 1.0 1.0
+Bike 1.0 2.0

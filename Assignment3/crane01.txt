@@ -1,0 +1,3 @@
+Joint 2 3
+Bike 1.0 1.0
+Bike 0.5 1.0

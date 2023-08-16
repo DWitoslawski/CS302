@@ -1,0 +1,9 @@
+# ninja log v5
+5	414	1690874547369633597	CMakeFiles/Assignment_5.dir/resizeTest.cpp.o	78751fa0b74374a7
+0	8	0	clean	3c8e6cc385ee00ba
+5	371	1690840050203448073	CMakeFiles/Assignment_5.dir/deepCopyTest.cpp.o	6a59361e9d81c966
+10	382	1690840024344783780	CMakeFiles/Assignment_5.dir/basicMapTest.cpp.o	761dcb7a326217a6
+10	455	1690874564246584469	CMakeFiles/Assignment_5.dir/main.cpp.o	119505ebca8a24b0
+6	356	1690874547310691586	CMakeFiles/Assignment_5.dir/hashMap.cpp.o	279fbcc62c5cb74
+0	56	1691381780488210509	build.ninja	c4a70ab211984e96
+455	504	1690874564298264972	Assignment_5	b2f1786ff66b7742
